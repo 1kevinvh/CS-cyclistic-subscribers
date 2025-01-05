@@ -87,4 +87,36 @@ I also compared the amount of riders per month, and there were no clear differen
 Similarly, I compared subscribers and non-subscribers based on the number of rides by the day of the week to see if there is a difference in riding patterns. This time, it showed an inverse-like pattern. For subscribers, it seems like trips are taken more during the weekdays (Sun-Thu) while non-subscribers seem to take more trips on the weekends (Fri-Sat).
 
 ## Share
+(When sharing data, I try to keep it, short, simple, and to the point)
+
+**Objective**
+
+I am looking to determine if there are any differences between subscibers and non-subscribers for Cyclistic's customer base.
+
+**Day Of Week**
+
+It seems non-subscribers take trips more during the weekends (Fri-Sat) while subscribers take more trips during the weekdays (Sun-Thu).
+![Trips By Day](/images/trips_by_day.png)
+
+*Data in the graph is from 2019*
+
+*0 = Sunday, 1 = Monday, 2 = Tuesday, 3 = Wednesday, 4 = Thursday, 5 = Friday, 6 = Saturday*
+
+This makes sense because usually, people have more free time weekends since they do not work. Thus they have more time to take longer, more enjoyable rides rides.
+
+**Trip Duration**
+
+This shows in the data since throughout the year, it seems the average trip duration for non-subscribers is higher than non-subscribers. In fact, overall, non-subscribers' average trip duration is 62% greater than subscribers.
+
+![Daily Average Trip Duration](/images/daily_avg_trip_duration.png)
+
+*Data in the graph is from 2019*
+
+## Conclusions
+1. Non-subscribers trend shows they take more trips on weekends (Fri-Sat) than weekdays (Sun-Thu) while subscribers take less trips on weekends than weekdays.
+2. On average, non-subscibers' trip durations are 62% longer than subscribers' trips.
+
+## Recommendations
+- Add incentives in the Cyclistic subscription for longer rides.
+- Add incentives in the Cyclistic subscription for weekend rides.
 
