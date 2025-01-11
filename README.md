@@ -117,6 +117,6 @@ This shows in the data since throughout the year, it seems the average trip dura
 2. On average, non-subscibers' trip durations are 62% longer than subscribers' trips.
 
 ## Recommendations
-- Add incentives in the Cyclistic subscription for longer rides.
-- Add incentives in the Cyclistic subscription for weekend rides.
+- Add incentives in the Cyclistic subscription for longer riders.
+- Add incentives in the Cyclistic subscription for weekend riders.
 
